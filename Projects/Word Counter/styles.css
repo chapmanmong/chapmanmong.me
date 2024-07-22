@@ -1,0 +1,10 @@
+#textArea {
+    height: 60vh;
+    width: 100%;
+}
+
+.chart-wrapper {
+    height: 60vh;
+    max-height: 60vh;
+    margin: 0 auto;
+}

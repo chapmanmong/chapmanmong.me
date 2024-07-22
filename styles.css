@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+    padding-top: 40px;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: fantasy;
+    margin-bottom: 1.5rem;
+}
+
+.profile-pic {
+    width: 35%;
+}
+.logo {
+    margin-bottom: 1rem;
+    max-width: 30%;
+    object-fit: fill;
+}
+
+.nav-item {
+    margin: 0 1rem;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.blockquote {
+    border-left: turquoise solid 4px;
+    padding-left: 1rem;
+}
+
+i, i:visited, i:link {
+    color: black;
+}
+
+.pic {
+    max-width: 75%;
+}
+
+strong {
+    font-weight: bold;
+}
+
+li:nth-of-type(odd) {
+    color: #5bc0de;
+    }
