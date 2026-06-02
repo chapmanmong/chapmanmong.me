@@ -46,3 +46,12 @@ strong {
 li:nth-of-type(odd) {
     color: #5bc0de;
     }
+
+.featured-card {
+    box-shadow: 0 0 16px rgba(13, 202, 240, 0.35);
+}
+
+.featured-card-img {
+    object-fit: cover;
+    min-height: 220px;
+}
